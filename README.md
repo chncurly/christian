@@ -42,7 +42,7 @@
         <p><li>Mobile Number: 09123529539</li></p>
         <p><li>Email: <a href="chanooh14@gmail.com"> chanooh14@gmail.com</li></p>
         <p><li>Facebook: <a href="facebook.com/chncurly"> facebook.com/chncurly</li></p>
-          </section>
+      </section>
     </main>
   </body>
 </html>
