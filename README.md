@@ -30,7 +30,7 @@
         <p><li>Age: 19</li></p>
         <p><li>Civil Status: Single</li></p>
         <p><li>Citizenship: Filipino</li></p>
-        <section class="skills">
+         <section class="skills">
           <h2>Skills</h2>
           <p><li>Teamwork</li></p>
           <p><li>Adaptability</li></p>
