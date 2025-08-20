@@ -44,6 +44,5 @@
         <p><li>Facebook: <a href="facebook.com/chncurly"> facebook.com/chncurly</li></p>
           </section>
     </main>
-          
   </body>
 </html>
