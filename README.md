@@ -10,13 +10,13 @@
       </div>
     </header>
     <main>
-       <section class="Education">
+       <section class="container">
       <h2>Objectives</h2>
          <p>Dedicated student seeking an opportunity to have a more knowledge
          specially on proggraming and contribute to the team projects while ganing experience 
          around on my field</p>
       </section>
-      <section class="Education">
+      <section class="container">
       <h2>Education</h2>
           <p><li>Elementary: Malpitic Elementary Shool</li></p>
           <p>Graduated Year: 2016 - 2017</p>
@@ -24,13 +24,13 @@
           <p>Graduated Year: 2022 - 2023</p>
           <p><li>College: St. Nicolas College of Business and Technologies</li></p>
       </section>
-      <section class="about">
+      <section class="container">
       <h2>About</h2>
         <p><li>Birthday: September 28, 2005</li></p>
         <p><li>Age: 19</li></p>
         <p><li>Civil Status: Single</li></p>
         <p><li>Citizenship: Filipino</li></p>
-         <section class="skills">
+         <section class="container">
           <h2>Skills</h2>
           <p><li>Teamwork</li></p>
           <p><li>Adaptability</li></p>
